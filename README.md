@@ -3,43 +3,12 @@
 </h1>
 
 <h2 align=center>
-	<i>42cursus' project #10</i>
+	<i>42 project</i>
 </h2>
 
 <p align=center>
 	The <b>net_practice</b> project is our first networking related project in 42 curriculum. It consists in 10 exercises in which we should configure different small-scale networks into communicating with each other - all of them using the concepts learnt about TCP/IP addressing.
 </p>
-
----
-<div align=center>
-<h2>
-	Final score
-</h2>
-<img src=https://github.com/caroldaniel/caroldaniel-utils/blob/7ba827bc56e33d925764730f54e0647be6e5db4c/netpractice_grade.png alt="cado-car's 42Project Score"/>
-<h4>Completed</h4>
-<img src=https://github.com/caroldaniel/caroldaniel-utils/blob/7ba827bc56e33d925764730f54e0647be6e5db4c/netpracticee.png alt="cado-car's 42Project Badge"/>
-</div>
-
----
-
-<h2 align=center> Index </h2>
-<h3 align="center"><b>
-	<a href="#Network">What is a Network?</a>
-	<span> • </span>
-	<a href="#TCP">What is TCP and IP Adress?</a>
-	<span> • </span>
-	<a href="#IPv4">IPv4 and Subnet Masks</a>
-	<span> • </span>
-	<a href="#Connecting">Connecting multiple devices</a>
-	<span> • </span>
-	<a href="#Switch">Switch</a>
-	<span> • </span>
-	<a href="#Router">Router</a>
-	<span> • </span>
-	<a href="#RouterTable">Routing Table</a>
-	<span> • </span>
-	<a href="#NetPractice">Net Practice</a>
-</b></h3>
 
 ---
 
