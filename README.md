@@ -220,7 +220,7 @@ Net Practice
   <summary>Level 1</summary>
   <br>
   
-![level01](./imgs/level01.png)
+![level01](https://github.com/othorel/NetPratice/blob/main/img/level1.png)
 
 The first exercise on the list is a simple problem of direct communication between each 2 devices. You need to make sure that each two devices that need to communicate between each other are, in fact, in the same network.
 
@@ -236,7 +236,7 @@ For Client C and Client D, the same rule applies, but now they both have subnet 
   <summary>Level 2</summary>
   <br>
 
-![level02](./imgs/level02.png)
+![level02](https://github.com/othorel/NetPratice/blob/main/img/level2.png)
 
 For this level, it's important to keep a few things in mind.
 
@@ -256,7 +256,7 @@ For CLient C and Client D, however, we have a mask of `255.255.255.252`, or CIDR
   <summary>Level 3</summary>
   <br>
 
-![level03](./imgs/level03.png)
+![level03](https://github.com/othorel/NetPratice/blob/main/img/level3.png)
 
 This is the first contact we have with switches. Its use is quite similar to the previous exercises, the only difference now beeing the possibility of communication between 3 separate devices.
 
@@ -270,7 +270,7 @@ All 3 clients must be on the same network. The mask for Client C is set as `255.
   <summary>Level 4</summary>
   <br>
 
-![level04](./imgs/level04.png)
+![level04](https://github.com/othorel/NetPratice/blob/main/img/level4.png)
 
 This exercise introduces the concept of a router. This router in particular has 3 separate interfaces, each with an IP Address and a Subnet Mask.
 
@@ -290,7 +290,7 @@ Applying this mask on the IP Address of Client A, we have the range from `63.12.
   <summary>Level 5</summary>
   <br>
 
-![level05](./imgs/level05.png)
+![level05](https://github.com/othorel/NetPratice/blob/main/img/level5.png)
 
 In this exercise, a Routing Table is introduced for the first time. The idea here is that each host must have a routing table that can connect to the router and each other.
 
@@ -312,7 +312,7 @@ The next hop for both tables will be the IP address of the respective router R I
   <summary>Level 6</summary>
   <br>
 
-![level06](./imgs/level06.png)
+![level06](https://github.com/othorel/NetPratice/blob/main/img/level6.png)
 
 This level introduces the concept of the Internet.
 
@@ -338,7 +338,7 @@ The router R routing table, however, has a next hop which doesn't match any Inte
   <summary>Level 7</summary>
   <br>
 
-![level07](./imgs/level07.png)
+![level07](https://github.com/othorel/NetPratice/blob/main/img/level7.png)
 
 In this level, the concept of overlapping is fundamental to its resolution.
 
@@ -370,7 +370,7 @@ After setting the appropriate IP Addresses, you need to fill in the routing tabl
   <summary>Level 8</summary>
   <br>
 
-![level08](./imgs/level08.png)
+![level08](https://github.com/othorel/NetPratice/blob/main/img/level8.png)
 
 In this level, you need to establish communication with the internet from two different hosts: client C and client D.
 
@@ -404,7 +404,7 @@ After that, fill in the routing tables considering that Routers R1 and R2's next
   <summary>Level 9</summary>
   <br>
 
-![level09](./imgs/level09.png)
+![level09](https://github.com/othorel/NetPratice/blob/main/img/level9.png)
 
 This level is an aggregation of all concepts previously seen in this exercise list.
 
@@ -434,7 +434,7 @@ After that, we need to set the routing tables to allow access between networks. 
   <summary>Level 10</summary>
   <br>
 
-![level10](./imgs/level10.png)
+![level10](https://github.com/othorel/NetPratice/blob/main/img/level10.png)
 
 This is one of the most straightforward exercises in this list.
 
